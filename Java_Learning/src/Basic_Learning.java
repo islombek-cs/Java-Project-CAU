@@ -1,7 +1,5 @@
-public class Main{
+public class Basic_Learning {
     public static void main(String[] args){
-
-
 
         /* String[] cars = {"Volvo", "Cadillac", "Chevrolet", "BMW", "Mercedes Benz"};
         System.out.println(cars[0]);
